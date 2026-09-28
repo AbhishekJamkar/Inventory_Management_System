@@ -1,1 +1,1 @@
-# Online_Inventory_Management_System
+# Inventory_Management_System
