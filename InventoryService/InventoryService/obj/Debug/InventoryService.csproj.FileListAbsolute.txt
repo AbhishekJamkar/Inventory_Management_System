@@ -1,0 +1,10 @@
+D:\wsd_project\InventoryService\InventoryService\bin\Debug\InventoryService.dll.config
+D:\wsd_project\InventoryService\InventoryService\bin\Debug\InventoryService.dll
+D:\wsd_project\InventoryService\InventoryService\bin\Debug\InventoryService.pdb
+D:\wsd_project\InventoryService\InventoryService\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\wsd_project\InventoryService\InventoryService\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\wsd_project\InventoryService\InventoryService\obj\Debug\InventoryService.csproj.AssemblyReference.cache
+D:\wsd_project\InventoryService\InventoryService\obj\Debug\InventoryService.csproj.CoreCompileInputs.cache
+D:\wsd_project\InventoryService\InventoryService\obj\Debug\InventoryService.csproj.CopyComplete
+D:\wsd_project\InventoryService\InventoryService\obj\Debug\InventoryService.dll
+D:\wsd_project\InventoryService\InventoryService\obj\Debug\InventoryService.pdb

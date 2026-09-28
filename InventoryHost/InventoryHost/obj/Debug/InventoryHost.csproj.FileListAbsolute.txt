@@ -1,0 +1,16 @@
+D:\wsd_project\InventoryHost\InventoryHost\bin\Debug\InventoryHost.exe.config
+D:\wsd_project\InventoryHost\InventoryHost\bin\Debug\InventoryHost.exe
+D:\wsd_project\InventoryHost\InventoryHost\bin\Debug\InventoryHost.pdb
+D:\wsd_project\InventoryHost\InventoryHost\bin\Debug\InventoryService.dll
+D:\wsd_project\InventoryHost\InventoryHost\bin\Debug\InventoryService.pdb
+D:\wsd_project\InventoryHost\InventoryHost\bin\Debug\InventoryService.dll.config
+D:\wsd_project\InventoryHost\InventoryHost\obj\Debug\InventoryHost.csproj.AssemblyReference.cache
+D:\wsd_project\InventoryHost\InventoryHost\obj\Debug\InventoryHost.Form1.resources
+D:\wsd_project\InventoryHost\InventoryHost\obj\Debug\InventoryHost.Properties.Resources.resources
+D:\wsd_project\InventoryHost\InventoryHost\obj\Debug\InventoryHost.csproj.GenerateResource.cache
+D:\wsd_project\InventoryHost\InventoryHost\obj\Debug\InventoryHost.csproj.CoreCompileInputs.cache
+D:\wsd_project\InventoryHost\InventoryHost\obj\Debug\InventoryHost.csproj.CopyComplete
+D:\wsd_project\InventoryHost\InventoryHost\obj\Debug\InventoryHost.exe
+D:\wsd_project\InventoryHost\InventoryHost\obj\Debug\InventoryHost.pdb
+D:\wsd_project\InventoryHost\InventoryHost\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\wsd_project\InventoryHost\InventoryHost\bin\Debug\System.Configuration.ConfigurationManager.xml
